@@ -1,5 +1,5 @@
 # demo-repo
-Demo repository <br>
+Demo repository 
 Hello Welcome <hr>
 Author - krishna srinivas
 <h6>welcome</h6>
